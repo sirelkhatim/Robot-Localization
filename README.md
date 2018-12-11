@@ -4,6 +4,8 @@ This is a project about localization using particular filters. In particular we 
 There are two folders in this repository:
 - Udacity_bot: which contains the file for running the base robot
 - myrobot: which contanis the files for running the customized robot
+- p2_robotics: report for the project
+- png files: images of the customized robot and base robot reaching its destinatino in both rviz and gazebo
 # Installation
 In order to be able to replicate the material in this project you will have to have the following. You need to have linux installed. Ideally you should be using Ubuntu 18.04. To install ROS and all the other dependecies you should go to the terminal and type the following:
 ```
